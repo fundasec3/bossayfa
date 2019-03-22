@@ -1,0 +1,2 @@
+# bossayfa
+Gizlilik ilkeleri
